@@ -1,0 +1,22 @@
+# ==== STM32CubeIDE Specific ====
+
+# Build output folders
+Debug/
+Release/
+
+# IDE settings
+.settings/
+.metadata/
+*.launch
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Backup / temporary files
+*.swp
+*.bak
